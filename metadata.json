@@ -1,0 +1,6 @@
+{
+  "name": "Bishnu and Babita",
+  "description": "An elegant, bespoke single-page anniversary celebration website for Bishnu and Babita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
